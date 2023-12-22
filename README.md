@@ -7,7 +7,7 @@ The counter will add or subtract a number choosen by the user or +/- 1, just by 
 The result of the operation will appear directly in the inner HTML.
 
 ## Getting Started
-Couter: github.com/Giac3eh/Counter.git
+Counter: https://giac3eh.github.io/Counter/
 
 ## Authors
 Giacomo Scalzotto 
