@@ -1,5 +1,5 @@
 # Counter
-Final project created as a part of "JavaScript Basics course" by Start2Impact University.  
+Project created as a part of "JavaScript Basics course" by Start2Impact University.  
 
 ## Description
 This is a simple counter created using HTML, CSS and JavaScript.
